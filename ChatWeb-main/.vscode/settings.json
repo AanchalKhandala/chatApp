@@ -1,0 +1,10 @@
+{
+    "npm.enableRunFromFolder": true,
+    "npm.runSilent": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.requirePragma": true,
+    "prettier.requireConfig": true,
+    "code-runner.defaultLanguage": "",
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.port": 5502
+}
